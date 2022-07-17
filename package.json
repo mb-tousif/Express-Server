@@ -1,0 +1,17 @@
+{
+  "name": "expresserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js",
+    "start-dev": "nodemon app2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
